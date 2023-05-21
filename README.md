@@ -2,7 +2,7 @@
 
 ## ÍNDICE.
 
-* [1. Intro] (https://github.com/DannySoo/interfazdeGoogle-clon/blob/main/README.md#1-intro)
+* [1. Intro] (#)
 * [2. Qué construí.] (#)
 * [3. Objetivo del proyecto.]
 
