@@ -15,7 +15,9 @@ En este proyecto, con los conocimientos de HTML y CSS, realicé la clonación de
 ## 2. Qué construí. 
 En este proyecto me enfoqué en construir la clonación de la interfaz de Google. Contiene las siguientes secciones:
 * **Header**: Sección que involucra la foto de mi perfil, íconos y un menú con hipervínculos.
+
 * **Main**: Sección del contenedor para los elementos centrales de la página.
+
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
 ## 3. Objetivo del proyecto. 
